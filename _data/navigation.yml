@@ -1,6 +1,6 @@
 # main links
 main:
-  - home: "HOME"
+  - title: "HOME"
     url: https://develku.github.io/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
